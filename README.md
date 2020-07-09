@@ -2,6 +2,10 @@
 
 💬 Ask me about [One App](https://github.com/americanexpress/one-app)
 
+🔭 I’m currently working on [Learn One App](https://github.com/JamesSingleton/learn-one-app)
+
+📫 How to reach me: [@Design__Pattern](https://twitter.com/Design__Pattern)
+
 <!--
 **JamesSingleton/JamesSingleton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

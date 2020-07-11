@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/avatar.png" width="250" />
+  <img src="https://raw.githubusercontent.com/JamesSingleton/JamesSingleton/master/assets/avatar.png" width="250" />
   <h1 align="center">
     James Singleton
   </h1>
@@ -59,7 +59,7 @@ I am currently a front-end engineer for [American Express](https://www.americane
     <tr>
       <td>
         <span>One App</span><br><br><br>
-        <img height="64px" src="./assets/one-app-logo.svg">
+        <img height="64px" src="https://raw.githubusercontent.com/JamesSingleton/JamesSingleton/master/assets/one-app-logo.svg">
       </td>
     </tr>
   </tbody>

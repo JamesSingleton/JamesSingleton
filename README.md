@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on [Learn One App](https://github.com/JamesSingleton/learn-one-app)
 
-📫 How to reach me: [@Design__Pattern](https://twitter.com/Design__Pattern)
+📫 How to reach me: [@Design\_\_Pattern](https://twitter.com/Design__Pattern)
 
 <!--
 **JamesSingleton/JamesSingleton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github.com/orta/orta/raw/master/2020/output/dropped-timeline.gif)

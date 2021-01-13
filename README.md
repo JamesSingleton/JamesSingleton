@@ -68,3 +68,5 @@ I am currently a front-end engineer for [American Express](https://www.americane
 [![TWITTER](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/Design__Pattern)
 
 ![James Singleton's github stats](https://github-readme-stats.vercel.app/api?username=JamesSingleton&show_icons=true&title_color=fff&icon_color=6B8E23&text_color=9f9f9f&bg_color=000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesSingleton&layout=compact&bg_color=000&text_color=9f9f9f&title_color=fff)
+

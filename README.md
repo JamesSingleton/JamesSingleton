@@ -7,7 +7,7 @@
 
 ## What I Do
 
-I am currently a front-end engineer for [American Express](https://www.americanexpress.com) working on open-source software (primarily [One App](https://github.com/americanexpress/one-app)).
+I am currently a Senior Software Engineer at Zendesk!
 
 ## Technology I Use
 
@@ -54,13 +54,6 @@ I am currently a front-end engineer for [American Express](https://www.americane
   </tbody>
 </table>
 
-## Ask me About One App
-
-> ✨ a fresh, modular take on web application development
-
-<a href="https://github.com/americanexpress/one-app" target="_blank" rel="noopener noreferrer">
-<img height="64px" src="https://raw.githubusercontent.com/JamesSingleton/JamesSingleton/master/assets/one-app-logo.svg" alt="One App Logo" />
-</a>
 
 ## How to reach me
 

@@ -58,7 +58,7 @@ I am currently a Senior Software Engineer at Zendesk!
 ## How to reach me
 
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jamesrsingleton)
-[![TWITTER](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/Design__Pattern)
+[![TWITTER](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/ThisIsSingleton)
 
 ![James Singleton's github stats](https://github-readme-stats.vercel.app/api?username=JamesSingleton&show_icons=true&title_color=fff&icon_color=6B8E23&text_color=9f9f9f&bg_color=000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesSingleton&layout=compact&bg_color=000&text_color=9f9f9f&title_color=fff)

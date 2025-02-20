@@ -7,7 +7,7 @@
 
 ## What I Do
 
-I am currently a Senior Software Engineer at Zendesk!
+I am currently a Senior Software Engineer looking for work. I most recently worked at Zendesk from 2021-2025 where I helped improve the Admin micro-frontend platform bringing module federation to Zendesk.
 
 ## Technology I Use
 
